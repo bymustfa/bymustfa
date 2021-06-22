@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Electron - React JS CRM
 - 🌱 I’m currently learning React - Native
+- ✨  This is my personal website: https://mustafaozturk.kim/
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
