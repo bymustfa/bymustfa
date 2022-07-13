@@ -17,7 +17,7 @@
  - 📝 I regularly write articles on [https://bay-mustafa-370.medium.com/](https://bay-mustafa-370.medium.com/) 
  - 💬 Ask me about **react, php, python** 
  - 📫 How to reach me **bay.mustafa.370@gmail.com** 
- - 📄 Know about my experiences [https://mustafaozturk.kim/#about](https://mustafaozturk.kim/#about)
+ - 📄 Know about my experiences [https://mustafaozturk.kim/about](https://mustafaozturk.kim/about)
  
  </p> 
  
