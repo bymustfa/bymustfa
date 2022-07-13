@@ -11,11 +11,11 @@
  
  <p align="left"> 
  
- - 🔭 I’m currently working on **Electron - React JS CRM** 
- - 🌱 I’m currently learning **React - Native** 
+ - 🔭 I’m currently working on **Password App with Node JS** 
+ - 🌱 I’m currently learning **Swift** 
  - 👨‍💻 All of my projects are available at [https://mustafaozturk.kim/](https://mustafaozturk.kim/) 
  - 📝 I regularly write articles on [https://bay-mustafa-370.medium.com/](https://bay-mustafa-370.medium.com/) 
- - 💬 Ask me about **react, php, python** 
+ - 💬 Ask me about **react, php, python, swift** 
  - 📫 How to reach me **bay.mustafa.370@gmail.com** 
  - 📄 Know about my experiences [https://mustafaozturk.kim/about](https://mustafaozturk.kim/about)
  
