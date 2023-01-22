@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://twitter.com/_bymustfa" target="blank">
-    <img src="https://img.shields.io/twitter/follow/_bymustfa?logo=twitter&style=for-the-badge" alt="_bymustfa" />
+    <img src="https://img.shields.io/twitter/follow/_bymustfa?style=social" alt="_bymustfa" />
   </a>  
   <img src="https://komarev.com/ghpvc/?username=bymustfa&label=Profile%20views&color=0e75b6&style=flat" alt="bymustfa" /> 
 </div>
