@@ -33,7 +33,7 @@
 <tr width="100vw">
 <td width="75%">
 <ul>
-<li>🔭 I’m currently working on <i><b>Password App with Node JS</b></i></li>
+<li>🔭 I’m currently working on <i><b>Vodafone TR</b></i></li>
 <li>🌱 I’m currently learning <i><b>Swift</b></i></li>
 <li>👨‍💻 All of my projects are available at https://mustafaozturk.kim</li>
 <li>📝 I regularly write articles on https://medium.com/@bymustfa</li>
