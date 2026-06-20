@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate full stack developer from Istanbul </h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -60,16 +56,5 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_bymustfa" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="_bymustfa" height="30" width="40" /></a>
-  <a href="https://instagram.com/bymustfa" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="@bymustfa" height="30" width="40" /></a>
-  <a href="https://medium.com/@bymustfa" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@bymustfa" height="30" width="40" /></a>
-</p>
+
 
