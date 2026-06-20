@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate full stack developer from Istanbul </h3>
 
-
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=bymustfa&row=1&column=6&theme=onedark" alt="bymustfa" />
- </a>
-</p>
-
+ 
 
 <br/>
 
