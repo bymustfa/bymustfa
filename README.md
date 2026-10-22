@@ -30,9 +30,6 @@
 <li>🌱 I’m currently learning <i><b>NLP and LLM </b></i></li>
 <li>👨‍💻 All of my projects are available at https://mustafaozturk.kim</li>
 <li>📝 I regularly write articles on https://medium.com/@bymustfa</li>
-<li>💬 Ask me about <i><b>React, React Native, Next, Python, Swift</b></i> </li>
-<li>📫 How to contact me https://superpeer.com/bymustfa</li>
-<li>📄 Know about my experiences https://mustafaozturk.kim/about</li>
 </ul>
 </td>
 <td width="25%">
