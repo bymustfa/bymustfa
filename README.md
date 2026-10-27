@@ -27,7 +27,7 @@ const mustafa = {
   role:        ["Full-Stack Developer", "AI Engineer"],
   location:    "Istanbul, Türkiye 🇹🇷",
   currentlyAt: "Vodafone Türkiye 🔴",
-  building:    ["Flexy CMS", "DevAtlas", "Popil", "Somra Media"],
+  building:    ["DevAtlas", "Popil", "Somra Media"],
   fullStack:   ["TypeScript", "Next.js", "React Native", "NestJS", "Go", ".NET"],
   ai:          ["LLM features", "MCP servers", "AI agents", "document AI"],
   github:      { orgs: 11, repos: "100+", contributions: "6.7k+" },
