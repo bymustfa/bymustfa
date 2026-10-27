@@ -78,14 +78,6 @@ const mustafa = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://flexycms.com">Flexy CMS</a></h3>
-      <p><b>AI-native headless CMS.</b> Point it at any SQL database and get instant <b>REST & GraphQL APIs</b>, a visual Studio, an embedded <b>AI assistant</b> and a <b>native MCP server</b> — with the same field-level permissions for humans and AI agents.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI%20Assistant-7F5AF0?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
       <h3>🧭 <a href="https://devatlas.workonlog.com">DevAtlas</a></h3>
       <p><b>Shared project memory for teams & AI agents.</b> A 28-tool <b>MCP server</b> (OAuth 2.1) gives Claude Code, Cursor, Codex & Gemini CLI project context, durable AI memory and an <b>agent task queue</b> wired to GitHub PRs — plus real-time diagrams, CRDT notes and ERDs for 26 databases.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -93,8 +85,6 @@ const mustafa = {
       <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
       <img src="https://img.shields.io/badge/status-live-2CB1BC?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📰 Popil</h3>
       <p><b>News app with an AI layer.</b> RSS ingestion pipeline, <b>LLM-generated summaries</b>, <b>clickbait-title detection</b> and trend-based push notifications — React Native app, Next.js web and an admin dashboard.</p>
@@ -103,6 +93,8 @@ const mustafa = {
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/LLM-OpenAI%20API-412991?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧾 Workonlog DocAI</h3>
       <p><b>Document AI for operations.</b> Invoices, orders, delivery notes and price requests arriving by <b>email or PDF</b> are parsed and turned into <b>typed JSON</b> by an LLM extraction layer, then reviewed in a Next.js app.</p>
@@ -110,8 +102,6 @@ const mustafa = {
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/LLM-structured%20extraction-412991?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/somralab/somra-media">Somra Media</a></h3>
       <p><b>All-in-one self-hosted media server</b> that rolls what Jellyfin/Plex, Sonarr/Radarr, Prowlarr, Bazarr and Overseerr do into a <b>single Docker install</b>.</p>
@@ -120,12 +110,22 @@ const mustafa = {
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📺 Mustiflix</h3>
       <p><b>Movie & series streaming platform</b> for web and <b>Android TV</b> — HLS playback, remote-friendly spatial navigation and its own CMS.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
       <img src="https://img.shields.io/badge/HLS-streaming-E60000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 SAP Basis Automation</h3>
+      <p><b>Multi-tenant, cloud-native SaaS</b> that automates and centralizes SAP Basis operations — users & roles, transports and job monitoring over RFC — across ECC, S/4HANA, BW and BTP landscapes.</p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ const mustafa = {
 <summary><b>🧪 More from the lab</b></summary>
 <br/>
 
-- 🏢 **Enterprise SaaS** — an SAP Basis automation platform (NestJS, RabbitMQ, Keycloak, Kubernetes) and an occupational health & safety management platform
+- 🦺 **OHS platform** — occupational health & safety management for OSGB units and their client workplaces
 - 🔌 **[mysql-mcp](https://github.com/bymustfa/mysql-mcp)** — MCP server that lets LLMs explore and query MySQL
 - 🗄️ **Querra IDE** — a modern, native multi-database client *(in progress)*
 - 🧠 **ML microservices** — FastAPI + Hugging Face Transformers services, e.g. language detection for a mentoring platform
