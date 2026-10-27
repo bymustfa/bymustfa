@@ -28,11 +28,11 @@ const mustafa = {
   role:         "Full-Stack Developer",
   currentlyAt:  "Vodafone Türkiye 🔴",
   dailyDriver:  ["TypeScript", "React", "Next.js", "Node.js"],
-  nowExploring: ["AI agents", "MCP servers", "LLMs & NLP", "multi-agent workflows"],
+  nowExploring: ["AI agents", "MCP servers", "LLMs & NLP", "multi-agent"],
   sideQuests:   ["DevAtlas", "Somra Media", "Querra IDE"],
-  originStory:  "Designed car-lettering stickers & neon signs → now ships enterprise web apps",
+  originStory:  "car-lettering stickers 🎨 → enterprise web apps 💻",
   fuel:         "☕ + lo-fi + just one more `git push`",
-  askMeAbout:   ["React / Next.js", "legacy → modern frontend migrations", "MCP & AI-assisted dev"],
+  askMeAbout:   ["React & Next.js", "legacy → modern migrations", "MCP"],
 };
 ```
 
@@ -86,10 +86,10 @@ const mustafa = {
 ## 📌 Open source
 
 <p align="center">
-  <a href="https://github.com/bymustfa/get-similar-color"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=get-similar-color&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="get-similar-color" /></a>
-  <a href="https://github.com/somralab/somra-media"><img src="https://github-readme-stats.vercel.app/api/pin/?username=somralab&repo=somra-media&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="somra-media" /></a>
-  <a href="https://github.com/bymustfa/react-simple-scheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=react-simple-scheduler&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="react-simple-scheduler" /></a>
-  <a href="https://github.com/bymustfa/php-auto-generate-cms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=php-auto-generate-cms&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="php-auto-generate-cms" /></a>
+  <a href="https://github.com/bymustfa/get-similar-color"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=get-similar-color&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="get-similar-color" /></a>
+  <a href="https://github.com/bymustfa/react-native-spotify-clone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=react-native-spotify-clone&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="react-native-spotify-clone" /></a>
+  <a href="https://github.com/bymustfa/react-simple-scheduler"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=react-simple-scheduler&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="react-simple-scheduler" /></a>
+  <a href="https://github.com/bymustfa/php-auto-generate-cms"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bymustfa&repo=php-auto-generate-cms&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9" alt="php-auto-generate-cms" /></a>
 </p>
 
 <br/>
@@ -128,11 +128,11 @@ const mustafa = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bymustfa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9&ring_color=A78BFA&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=bymustfa&hide_border=true&background=0D1117&ring=A78BFA&fire=E60000&currStreakLabel=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bymustfa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=2CB1BC&text_color=C9D1D9&ring_color=A78BFA&rank_icon=github" alt="GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=bymustfa&hide_border=true&background=0D1117&ring=A78BFA&fire=E60000&currStreakLabel=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=bymustfa&layout=compact&langs_count=6&hide=scss,css,html,blade&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=bymustfa&layout=compact&langs_count=6&hide=scss,css,html,blade,java&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
 </p>
 
 <br/>
